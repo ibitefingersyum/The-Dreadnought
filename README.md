@@ -2,7 +2,7 @@
 The Dreadnought
 
 ## Description
-The Dreadnought is a short 2D experience where you play as a doomed, unstoppable soldier deployed as a last resort. Nearly invincible and heavily armed, you carve through enemies while your life steadily drains. There is no survival—only how much destruction you bring before you fall.
+This is a short, <10 minute game. I can't talk much about the exact details of this, but you may find more details here: [Grave/Digger The Dreadnought Trello](https://trello.com/c/Ho3QNQUG/234-the-dreadnought)
 
 ## Purpose
 I'm making this project since the game of which it's inspired by, is what I consider a rare gem in today's world. I'm soley making this since I thought it would be enjoyable.
