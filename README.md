@@ -26,4 +26,4 @@ Everything cause buns at coding
 
 ## Class Diagram
 
-[a](https://github.com/ibitefingersyum/The-Dreadnought/blob/9fb0fe9054206efc81abed43f9e935ef5f4571b7/images/dreadnought.png)
+![Diagram](https://github.com/ibitefingersyum/The-Dreadnought/blob/9fb0fe9054206efc81abed43f9e935ef5f457)
