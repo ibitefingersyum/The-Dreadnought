@@ -9,6 +9,8 @@ def pick_enemy_type():
 
     return random.choice(pool)
 
+
+
 WEAPONS = {
     
     "judgement": {

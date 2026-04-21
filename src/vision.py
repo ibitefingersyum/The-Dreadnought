@@ -2,8 +2,8 @@ import pygame
 import math
 
 def draw_vision_cone(surface, pos, angle):
-    length = 400
-    spread = math.radians(40)
+    length = 1200
+    spread = math.radians(30)
 
     left = angle - spread
     right = angle + spread
