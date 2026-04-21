@@ -1,6 +1,8 @@
 # Project Title
 The Dreadnought
 
+### THIS GAME REQUIRES PYGAME
+
 ## Description
 This is a short, <10 minute game. I can't talk much about the exact details of this since it is for school and the description is dark, but you may find more details here: [Grave/Digger The Dreadnought Trello](https://trello.com/c/Ho3QNQUG/234-the-dreadnought)
 
