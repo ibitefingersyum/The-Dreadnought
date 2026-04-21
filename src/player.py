@@ -5,9 +5,9 @@ from health import Health
 class Player:
     def __init__(self, x, y):
         self.pos = pygame.Vector2(x, y)
-        self.speed = 200
+        self.speed = 50
         self.angle = 0
-        self.health = Health(100, drain_rate=2)
+        self.health = Health(12000, drain_rate=20)
 
     def update(self, dt):
         keys = pygame.key.get_pressed()

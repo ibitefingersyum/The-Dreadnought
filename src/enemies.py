@@ -24,13 +24,6 @@ class EnemyManager:
     def draw(self, screen):
         for e in self.enemies:
             e.draw(screen)
-# hitbox
-
-# sprite
-
-# equipt item
-
-# targeting
 
 # type of enemy
 
@@ -60,14 +53,6 @@ class EnemyManager:
         # Insurgent Low Damage, -Low Accuracy, ++High RoF (Handgun) | 20 Bullets | Can't Reload | 60 dmg | 230 rpm
 
     # Special (1w): (Heavy Lance, Shield )
-        #
-
-
-# spawn radius
-
-# movement
-
-#interaction with map class
-
-#interaction with health class
+        # Heavy Lance | Special logic, make lancer zoom in a straight line, dealing 300 damage on hit
+        # Shield | Special logic, set down shield that can be destroyed
 
