@@ -13,3 +13,7 @@ def draw_vision_cone(surface, pos, angle):
     p3 = pos + pygame.Vector2(math.cos(right), math.sin(right)) * length
 
     pygame.draw.polygon(surface, (200, 200, 200), [p1, p2, p3])
+
+#attempt at making a small vision circle around the player
+
+# def draw_vision_circle(surface, pos, radius):

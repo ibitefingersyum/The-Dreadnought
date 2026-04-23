@@ -43,4 +43,6 @@ while running:
 
     pygame.display.flip()
 
+    #plans: add pausing upon menu open, force game stop end end screen when player dies.
+
 pygame.quit()

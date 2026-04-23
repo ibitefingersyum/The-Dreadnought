@@ -16,3 +16,5 @@ class Health:
 
     def is_dead(self):
         return self.current <= 0
+    
+    # temp until needed
