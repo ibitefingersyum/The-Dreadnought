@@ -5,7 +5,7 @@ from health import Health
 class Player:
     def __init__(self, x, y):
         self.pos = pygame.Vector2(x, y)
-        self.speed = 50
+        self.speed = 60
         self.angle = 0
         self.health = Health(12000, drain_rate=18)
 

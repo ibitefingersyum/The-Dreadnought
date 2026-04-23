@@ -45,8 +45,8 @@ class EnemyManager:
     def __init__(self):
         self.enemies = []
 
-        self.spawn_enemy(200, 200)
-        self.spawn_enemy(500, 200)
+        self.spawn_enemy(200, 200) #temporary enemies, will make spawning once base game is finished.
+        self.spawn_enemy(500, 200) #temporary enemies, will make spawning once base game is finished.
 
     def pick_enemy_type(self):
         pool = []

@@ -5,6 +5,7 @@ from projectiles import ProjectileManager
 from vision import draw_vision_cone
 from map import draw_map
 from hud import draw_hud
+pygame.display.set_caption("The Dreadnought")
 
 pygame.init()
 WIDTH, HEIGHT = 600, 800
@@ -23,13 +24,13 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-    # UPDATE
+    # update
     player.update(dt)
     enemies.update(dt, player)
     projectiles.update(dt)
 
-    # DRAW
-    screen.fill((0, 0, 0))
+    # draw
+    screen.fill((10, 10, 30))
     draw_map(screen)
 
     draw_vision_cone(screen, player.pos, player.angle)
