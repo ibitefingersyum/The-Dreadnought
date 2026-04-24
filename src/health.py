@@ -4,12 +4,12 @@ class Health:
         self.current = max_health
         self.drain_rate = drain_rate
 
-    def update(self, dt):
+    def update(self, dt): #drain stolen to player
         self.current -= self.drain_rate * dt
         if self.current < 0:
             self.current = 0
 
-    def take_damage(self, amount):
+    def take_damage(self, amount): #after i figure out projectiles
         self.current -= amount
         if self.current < 0:
             self.current = 0

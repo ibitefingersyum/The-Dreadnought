@@ -1,6 +1,6 @@
 import pygame
 import math
-
+#vision cone for player
 def draw_vision_cone(surface, pos, angle):
     length = 1200
     spread = math.radians(30)

@@ -1,3 +1,5 @@
+# ENEMY TYPE DATA AND CLASS POOL / CURRENTLY UNMADE AND UNUSED THIS IS ALL CONCEPT
+
 ENEMY_TYPES = {
     "soldat": {
         "weight": 3,
@@ -6,7 +8,7 @@ ENEMY_TYPES = {
 
     "rook": {
         "weight": 2,
-        "ability": "build_cover"
+        "ability": "build"
     },
 
     "mortician": {
@@ -21,7 +23,7 @@ ENEMY_TYPES = {
 
     "jaeger": {
         "weight": 2,
-        "ability": "place_traps"
+        "ability": "place_trap"
     },
 
     "lancer": {

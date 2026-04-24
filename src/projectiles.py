@@ -11,7 +11,7 @@ class Projectile:
     def draw(self, screen):
         pygame.draw.circle(screen, (255, 255, 0), self.pos, 5)
 
-
+#completely unused btw
 class ProjectileManager:
     def __init__(self):
         self.projectiles = []

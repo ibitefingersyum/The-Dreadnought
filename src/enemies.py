@@ -10,7 +10,7 @@ class Enemy:
 
         self.pos = pygame.Vector2(x, y)
         self.speed = 100
-
+#targetting, tried for a* but i dont know how
         self.ability = self.data.get("ability", None)
         self.weapon = self.data.get("weapon", None)
 
@@ -24,7 +24,7 @@ class Enemy:
 
         self.use_ability(dt, player)
 
-    def use_ability(self, dt, player):
+    def use_ability(self, dt, player): #unused for now
         if self.ability == "heal_allies":
             pass
         elif self.ability == "buff_allies":
@@ -48,7 +48,7 @@ class EnemyManager:
         self.spawn_enemy(200, 200) #temporary enemies, will make spawning once base game is finished.
         self.spawn_enemy(500, 200) #temporary enemies, will make spawning once base game is finished.
 
-    def pick_enemy_type(self):
+    def pick_enemy_type(self): #unused
         pool = []
         for name, data in ENEMY_TYPES.items():
             pool += [name] * data["weight"]
