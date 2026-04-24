@@ -24,7 +24,7 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-    # updates
+    # updates states
     player.update(dt)
     enemies.update(dt, player)
     projectiles.update(dt)

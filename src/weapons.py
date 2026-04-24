@@ -19,7 +19,7 @@ WEAPONS = {
         "ammo": 1,
         "reload": 3.0,
         "rpm": 21,
-        "accuracy": 0.95
+        "accuracy": 0.9
     },
 
     "prince": {
@@ -47,7 +47,7 @@ WEAPONS = {
         "ammo": 6,
         "reload": 7.75,
         "rpm": 150,
-        "accuracy": 0.6
+        "accuracy": 0.55
     },
 
     "grace": {
@@ -65,7 +65,7 @@ WEAPONS = {
         "ammo": 20,
         "reload": None,
         "rpm": 230,
-        "accuracy": 0.65
+        "accuracy": 0.5
     }
 }
 
