@@ -46,3 +46,5 @@ while running:
     #plans: add pausing upon menu open, force game stop end end screen when player dies.
 
 pygame.quit()
+
+#ngl ai generated like a solid 60-70% of this
