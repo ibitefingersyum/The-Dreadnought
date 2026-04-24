@@ -1,4 +1,4 @@
-PLEASEEEEEE DONT PEER EVAL MY SHIT LIKE ONG JUST MAKE UP SOME RANDOM SHIT AND SAY "OK" LIKE PLEASEEEEEEE LIKE IF I GET ONE ACTUAL PEER EVAL IM GENUINELY GOING TO DELETE IT ALL
+PLEASEEEEEE DONT PEER EVAL MY SHIT LIKE ONG JUST MAKE UP SOME RANDOM SHIT AND SAY "OK" LIKE PLEASEEEEEEE LIKE IF I GET ONE ACTUAL PEER EVAL IM LOWKENUINELY GOING TO DELETE IT ALL
 
 # The Dreadnought
 
@@ -14,9 +14,10 @@ I'm making this project since the game of which it's inspired by, is what I cons
 Myself, other fans of Grave/Digger.
 
 ## Planned Features
-- Feature 1
-- Feature 2
-- Feature 3
+- actual shooting
+- actually taking damage
+- actual collision
+- actual enemy types
 
 ## Program Structure
 List the main classes or components you expect to create.
