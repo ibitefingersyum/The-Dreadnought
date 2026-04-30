@@ -1,4 +1,4 @@
-
+Notice: This game was highly AI generated since I had run out of time to get anywhere near what I was planning.
 # The Dreadnought
 
 ### THIS GAME REQUIRES PYGAME
