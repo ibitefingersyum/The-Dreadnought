@@ -2,6 +2,7 @@ import pygame
 from player import Player
 from enemies import EnemyManager
 from projectiles import ProjectileManager
+from projectiles import Projectile
 from vision import draw_vision_cone
 from map import draw_map
 from hud import draw_hud #add stuff from other files

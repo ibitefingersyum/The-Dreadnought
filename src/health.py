@@ -4,7 +4,7 @@ class Health:
         self.current = max_health
         self.drain_rate = drain_rate
 
-    def update(self, dt): #drain stolen to player
+    def update(self, dt): 
         self.current -= self.drain_rate * dt
         if self.current < 0:
             self.current = 0

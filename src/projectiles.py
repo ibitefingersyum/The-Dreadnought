@@ -1,5 +1,7 @@
 import pygame
 
+import player
+
 class Projectile:
     def __init__(self, pos, vel):
         self.pos = pygame.Vector2(pos)
